@@ -58,5 +58,5 @@
 
 .Pokecard-image img:hover {
   transform: scale(1.25);
-  opacity: 1;
+opacity: 1;
 }
